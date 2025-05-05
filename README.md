@@ -1,7 +1,7 @@
 <h1>Detección de Rostros</h1>
 <br> ¿Cómo funciona?
 
-Captura de Rostros
+<h2>Captura de Rostros</h2>
 <br>  -El archivo denominado "capturandoRostros" se encarga de recolectar múltiples imágenes de tu rostro. Estas imágenes serán utilizadas posteriormente para entrenar el modelo de inteligencia artificial.
 
 Entrenamiento del Modelo
