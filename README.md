@@ -1,4 +1,4 @@
-Detección de Rostros
+<h1>Detección de Rostros</h1>
 <br> ¿Cómo funciona?
 
 Captura de Rostros
